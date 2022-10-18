@@ -1,0 +1,18 @@
+# System
+.DS_Store
+
+# Integrated development environment
+.idea
+.vscode
+
+# Package manager
+## Cargo
+target
+
+# Other cache
+## mdBook
+book
+index.html
+
+# Test data
+test-data
